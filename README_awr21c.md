@@ -10,5 +10,5 @@ I did the Git and Github lab, which was a small interactive exercise to practice
 
 ### Screenshots
 
-[Screenshot 1](ss_1.png?raw=true)
-[Screenshot 2](ss_2.png?raw=true)
+![Screenshot 1](ss_1.png)
+![Screenshot 2](ss_2.png)
